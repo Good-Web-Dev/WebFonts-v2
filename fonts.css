@@ -28,6 +28,11 @@ font-family: 'KFGQPC-Kufi';
 font-weight: normal;
 src: url('KFGQPC-Kufi-normal.woff2');
 }
+@font-face{
+font-family: 'KFGQPC-Kufi';
+font-weight: bold;
+src: url('KFGQPC-Kufi-normal.woff2');
+}
 
 /* ----- KSA ----- */
 @font-face{
@@ -79,6 +84,11 @@ src: url('Arial-bold.woff2');
 @font-face{
 font-family: 'Science-Icons';
 font-weight: normal;
+src: url('Science-Icons.woff2');
+}
+@font-face{
+font-family: 'Science-Icons';
+font-weight: bold;
 src: url('Science-Icons.woff2');
 }
 
