@@ -1,1 +1,110 @@
+/* ----- Molhim ----- */
+@font-face{
+font-family: 'Molhim';
+font-weight: normal;
+src: url('Molhim-normal.woff2');
+}
+@font-face{
+font-family: 'Molhim';
+font-weight: bold;
+src: url('Molhim-bold.woff2');
+}
 
+/* ----- UthmanTN ----- */
+@font-face{
+font-family: 'UthmanTN';
+font-weight: normal;
+src: url('UthmanTN-normal.woff2');
+}
+@font-face{
+font-family: 'UthmanTN';
+font-weight: bold;
+src: url('UthmanTN-bold.woff2');
+}
+
+/* ----- KFGQPC-Kufi ----- */
+@font-face{
+font-family: 'KFGQPC-Kufi';
+font-weight: normal;
+src: url('KFGQPC-Kufi-normal.woff2');
+}
+
+/* ----- KSA ----- */
+@font-face{
+font-family: 'KSA';
+font-weight: normal;
+src: url('KSA-normal.woff2');
+}
+@font-face{
+font-family: 'KSA';
+font-weight: bold;
+src: url('KSA-bold.woff2');
+}
+@font-face{
+font-family: 'KSA';
+font-weight: 800;
+src: url('KSA-extra_bold.woff2');
+}
+@font-face{
+font-family: 'KSA';
+font-weight: 900;
+src: url('KSA-heavy.woff2');
+}
+
+/* ----- UthmanicHafs ----- */
+@font-face{
+font-family: 'UthmanicHafs';
+font-weight: normal;
+src: url('UthmanicHafs-normal.woff2');
+}
+@font-face{
+font-family: 'UthmanicHafs';
+font-weight: bold;
+src: url('UthmanicHafs-bold.woff2');
+}
+
+/* ----- Arial ----- */
+@font-face{
+font-family: 'Arial';
+font-weight: normal;
+src: url('Arial-normal.woff2');
+}
+@font-face{
+font-family: 'Arial';
+font-weight: bold;
+src: url('Arial-bold.woff2');
+}
+
+/* ----- Science-Icons ----- */
+@font-face{
+font-family: 'Science-Icons';
+font-weight: normal;
+src: url('Science-Icons.woff2');
+}
+
+/* ----- AH-Manal ----- */
+@font-face{
+font-family: 'AH-Manal';
+font-weight: lighter;
+src: url('AH-Manal-light.woff2');
+}
+@font-face{
+font-family: 'AH-Manal';
+font-weight: normal;
+src: url('AH-Manal-normal.woff2');
+}
+@font-face{
+font-family: 'AH-Manal';
+font-weight: bold;
+src: url('AH-Manal-bold.woff2');
+}
+@font-face{
+font-family: 'AH-Manal';
+font-weight: 800;
+src: url('AH-Manal-extra_bold.woff2');
+}
+@font-face{
+font-family: 'AH-Manal';
+font-weight: bolder;
+src: url('AH-Manal-heavy.woff2');
+}
