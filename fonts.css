@@ -26,12 +26,12 @@ src: url('UthmanTN-bold.woff2');
 @font-face{
 font-family: 'KFGQPC-Kufi';
 font-weight: normal;
-src: url('KFGQPC-Kufi-normal.woff2');
+src: url('KFGQPC-Kufi.woff2');
 }
 @font-face{
 font-family: 'KFGQPC-Kufi';
 font-weight: bold;
-src: url('KFGQPC-Kufi-normal.woff2');
+src: url('KFGQPC-Kufi.woff2');
 }
 
 /* ----- KSA ----- */
@@ -117,4 +117,96 @@ src: url('AH-Manal-extra_bold.woff2');
 font-family: 'AH-Manal';
 font-weight: 900;
 src: url('AH-Manal-heavy.woff2');
+}
+
+/* ----- A-Massir ----- */
+@font-face{
+font-family: 'A-Massir';
+font-weight: normal;
+src: url('A-Massir-normal.woff2');
+}
+@font-face{
+font-family: 'A-Massir';
+font-weight: bold;
+src: url('A-Massir-bold.woff2');
+}
+
+/* ----- Barada-Reqa ----- */
+@font-face{
+font-family: 'Barada-Reqa';
+font-weight: normal;
+src: url('Barada-Reqa.woff2');
+}
+@font-face{
+font-family: 'Barada-Reqa';
+font-weight: bold;
+src: url('Barada-Reqa.woff2');
+}
+
+/* ----- HelveticaWorld ----- */
+@font-face{
+font-family: 'HelveticaWorld';
+font-weight: normal;
+src: url('HelveticaWorld-normal.woff2');
+}
+@font-face{
+font-family: 'HelveticaWorld';
+font-weight: bold;
+src: url('HelveticaWorld-bold.woff2');
+}
+
+/* ----- ArabicUIDisplay ----- */
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: 100;
+src: url('ArabicUIDisplay-thin.woff2');
+}
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: 200;
+src: url('ArabicUIDisplay-light.woff2');
+}
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: normal;
+src: url('ArabicUIDisplay-normal.woff2');
+}
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: 500;
+src: url('ArabicUIDisplay-semi_bold.woff2');
+}
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: bold;
+src: url('ArabicUIDisplay-bold.woff2');
+}
+@font-face{
+font-family: 'ArabicUIDisplay';
+font-weight: 900;
+src: url('ArabicUIDisplay-heavy.woff2');
+}
+
+/* ----- Almodrajat ----- */
+@font-face{
+font-family: 'Almodrajat';
+font-weight: normal;
+src: url('Almodrajat.woff2');
+}
+@font-face{
+font-family: 'Almodrajat';
+font-weight: bold;
+src: url('Almodrajat.woff2');
+}
+
+/* ----- Kitab ----- */
+@font-face{
+font-family: 'Kitab';
+font-weight:normal ;
+src: url('Kitab-normal.woff2');
+}
+@font-face{
+font-family: 'Kitab';
+font-weight: bold;
+src: url('Kitab-bold.woff2');
 }
