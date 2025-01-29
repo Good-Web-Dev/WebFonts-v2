@@ -210,3 +210,21 @@ font-family: 'Kitab';
 font-weight: bold;
 src: url('Kitab-bold.woff2');
 }
+
+/* ----- KawkabMono ----- */
+@font-face{
+font-family: 'KawkabMono';
+font-weight: 100;
+src: url('KawkabMono-light.woff2');
+}
+@font-face{
+font-family: 'KawkabMono';
+font-weight: normal;
+src: url('KawkabMono-normal.woff2');
+}
+
+@font-face{
+font-family: 'KawkabMono';
+font-weight: bold;
+src: url('KawkabMono-bold.woff2');
+}
