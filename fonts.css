@@ -222,9 +222,32 @@ font-family: 'KawkabMono';
 font-weight: normal;
 src: url('KawkabMono-normal.woff2');
 }
-
 @font-face{
 font-family: 'KawkabMono';
 font-weight: bold;
 src: url('KawkabMono-bold.woff2');
+}
+
+/* ----- DG-Faseh ----- */
+@font-face{
+font-family: 'DG-Faseh';
+font-weight: normal;
+src: url('DG-Faseh-normal.woff2');
+}
+@font-face{
+font-family: 'DG-Faseh';
+font-weight: bold;
+src: url('DG-Faseh-bold.woff2');
+}
+
+/* ----- Adobe-Arabic ----- */
+@font-face{
+font-family: 'Adobe-Arabic';
+font-weight: normal;
+src: url('Adobe-Arabic-normal.woff2');
+}
+@font-face{
+font-family: 'Adobe-Arabic';
+font-weight: bold;
+src: url('Adobe-Arabic-bold.woff2');
 }
