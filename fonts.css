@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Bold.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Bold.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-Bold.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -11,8 +11,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-ExtraLight.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-ExtraLight.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-ExtraLight.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-ExtraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -20,8 +20,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Light.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Light.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-Light.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -29,8 +29,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-SemiBold.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-SemiBold.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-SemiBold.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -38,8 +38,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-Regular.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -47,8 +47,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Medium.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Medium.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-Medium.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -56,8 +56,8 @@
 
 @font-face {
     font-family: 'IBM Plex Sans Arabic';
-    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Thin.woff2') format('woff2'),
-        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Thin.woff') format('woff');
+    src: url('IBM Plex Sans Arabic/IBMPlexSansArabic-Thin.woff2') format('woff2'),
+        url('IBM Plex Sans Arabic/IBMPlexSansArabic-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -535,3 +535,911 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* ----- Calibri ----- */
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('Calibri/Calibri.woff2') format('woff2'),
+        url('Calibri/Calibri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('Calibri/Calibri-Bold.woff2') format('woff2'),
+        url('Calibri/Calibri-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Markazi Text ----- */
+
+@font-face {
+    font-family: 'Markazi Text';
+    src: url('Markazi Text/MarkaziText-Regular.woff2') format('woff2'),
+        url('Markazi Text/MarkaziText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Markazi Text';
+    src: url('Markazi Text/MarkaziText-Medium.woff2') format('woff2'),
+        url('Markazi Text/MarkaziText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Markazi Text';
+    src: url('Markazi Text/MarkaziText-Bold.woff2') format('woff2'),
+        url('Markazi Text/MarkaziText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Markazi Text';
+    src: url('Markazi Text/MarkaziText-SemiBold.woff2') format('woff2'),
+        url('Markazi Text/MarkaziText-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Scheherazade New ----- */
+
+@font-face {
+    font-family: 'Scheherazade New';
+    src: url('Scheherazade New/ScheherazadeNew-Medium.woff2') format('woff2'),
+        url('Scheherazade New/ScheherazadeNew-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scheherazade New';
+    src: url('Scheherazade New/ScheherazadeNew-Bold.woff2') format('woff2'),
+        url('Scheherazade New/ScheherazadeNew-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scheherazade New';
+    src: url('Scheherazade New/ScheherazadeNew-Regular.woff2') format('woff2'),
+        url('Scheherazade New/ScheherazadeNew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scheherazade New';
+    src: url('Scheherazade New/ScheherazadeNew-SemiBold.woff2') format('woff2'),
+        url('Scheherazade New/ScheherazadeNew-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Baloo Bhaijaan 2 ----- */
+
+@font-face {
+    font-family: 'Baloo Bhaijaan 2';
+    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Bold.woff2') format('woff2'),
+        url('Baloo Bhaijaan 2/BalooBhaijaan2-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Bhaijaan 2';
+    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-ExtraBold.woff2') format('woff2'),
+        url('Baloo Bhaijaan 2/BalooBhaijaan2-ExtraBold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Bhaijaan 2';
+    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Medium.woff2') format('woff2'),
+        url('Baloo Bhaijaan 2/BalooBhaijaan2-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Bhaijaan 2';
+    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-SemiBold.woff2') format('woff2'),
+        url('Baloo Bhaijaan 2/BalooBhaijaan2-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Bhaijaan 2';
+    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Regular.woff2') format('woff2'),
+        url('Baloo Bhaijaan 2/BalooBhaijaan2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Katibeh ----- */
+
+@font-face {
+    font-family: 'Katibeh';
+    src: url('Katibeh/Katibeh-Regular.woff2') format('woff2'),
+        url('Katibeh/Katibeh-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Katibeh';
+    src: url('Katibeh/Katibeh-Regular.woff2') format('woff2'),
+        url('Katibeh/Katibeh-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Noto Kufi Arabic ----- */
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Black.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Light.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-ExtraBold.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Bold.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-ExtraLight.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-SemiBold.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Thin.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Medium.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('Noto Kufi Arabic/NotoKufiArabic-Regular.woff2') format('woff2'),
+        url('Noto Kufi Arabic/NotoKufiArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Aref Ruqaa ----- */
+
+@font-face {
+    font-family: 'Aref Ruqaa';
+    src: url('Aref Ruqaa/ArefRuqaa-Bold.woff2') format('woff2'),
+        url('Aref Ruqaa/ArefRuqaa-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aref Ruqaa';
+    src: url('Aref Ruqaa/ArefRuqaa-Regular.woff2') format('woff2'),
+        url('Aref Ruqaa/ArefRuqaa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Cairo ----- */
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-Light.woff2') format('woff2'),
+        url('Cairo/Cairo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-Black.woff2') format('woff2'),
+        url('Cairo/Cairo-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-ExtraLight.woff2') format('woff2'),
+        url('Cairo/Cairo-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-Medium.woff2') format('woff2'),
+        url('Cairo/Cairo-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-Bold.woff2') format('woff2'),
+        url('Cairo/Cairo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-ExtraBold.woff2') format('woff2'),
+        url('Cairo/Cairo-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-Regular.woff2') format('woff2'),
+        url('Cairo/Cairo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('Cairo/Cairo-SemiBold.woff2') format('woff2'),
+        url('Cairo/Cairo-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- El Messiri ----- */
+
+@font-face {
+    font-family: 'El Messiri';
+    src: url('El Messiri/ElMessiri-Regular.woff2') format('woff2'),
+        url('El Messiri/ElMessiri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'El Messiri';
+    src: url('El Messiri/ElMessiri-Bold.woff2') format('woff2'),
+        url('El Messiri/ElMessiri-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'El Messiri';
+    src: url('El Messiri/ElMessiri-Medium.woff2') format('woff2'),
+        url('El Messiri/ElMessiri-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'El Messiri';
+    src: url('El Messiri/ElMessiri-SemiBold.woff2') format('woff2'),
+        url('El Messiri/ElMessiri-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Lateef ----- */
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-Bold.woff2') format('woff2'),
+        url('Lateef/Lateef-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-SemiBold.woff2') format('woff2'),
+        url('Lateef/Lateef-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-Light.woff2') format('woff2'),
+        url('Lateef/Lateef-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-Regular.woff2') format('woff2'),
+        url('Lateef/Lateef-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-ExtraBold.woff2') format('woff2'),
+        url('Lateef/Lateef-ExtraBold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-Medium.woff2') format('woff2'),
+        url('Lateef/Lateef-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lateef';
+    src: url('Lateef/Lateef-ExtraLight.woff2') format('woff2'),
+        url('Lateef/Lateef-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Lemonada ----- */
+
+@font-face {
+    font-family: 'Lemonada';
+    src: url('Lemonada/Lemonada-Light.woff2') format('woff2'),
+        url('Lemonada/Lemonada-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lemonada';
+    src: url('Lemonada/Lemonada-Medium.woff2') format('woff2'),
+        url('Lemonada/Lemonada-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lemonada';
+    src: url('Lemonada/Lemonada-Bold.woff2') format('woff2'),
+        url('Lemonada/Lemonada-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lemonada';
+    src: url('Lemonada/Lemonada-Regular.woff2') format('woff2'),
+        url('Lemonada/Lemonada-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lemonada';
+    src: url('Lemonada/Lemonada-SemiBold.woff2') format('woff2'),
+        url('Lemonada/Lemonada-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Mirza ----- */
+
+@font-face {
+    font-family: 'Mirza';
+    src: url('Mirza/Mirza-SemiBold.woff2') format('woff2'),
+        url('Mirza/Mirza-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mirza';
+    src: url('Mirza/Mirza-Medium.woff2') format('woff2'),
+        url('Mirza/Mirza-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mirza';
+    src: url('Mirza/Mirza-Bold.woff2') format('woff2'),
+        url('Mirza/Mirza-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mirza';
+    src: url('Mirza/Mirza-Regular.woff2') format('woff2'),
+        url('Mirza/Mirza-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Noto Naskh Arabic ----- */
+
+@font-face {
+    font-family: 'Noto Naskh Arabic';
+    src: url('Noto Naskh Arabic/NotoNaskhArabic-Regular.woff2') format('woff2'),
+        url('Noto Naskh Arabic/NotoNaskhArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Naskh Arabic';
+    src: url('Noto Naskh Arabic/NotoNaskhArabic-SemiBold.woff2') format('woff2'),
+        url('Noto Naskh Arabic/NotoNaskhArabic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Naskh Arabic';
+    src: url('Noto Naskh Arabic/NotoNaskhArabic-Medium.woff2') format('woff2'),
+        url('Noto Naskh Arabic/NotoNaskhArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Naskh Arabic';
+    src: url('Noto Naskh Arabic/NotoNaskhArabic-Bold.woff2') format('woff2'),
+        url('Noto Naskh Arabic/NotoNaskhArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Readex Pro ----- */
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-Light.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-ExtraLight.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-Regular.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-Medium.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-SemiBold.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Readex Pro';
+    src: url('Readex Pro/ReadexPro-Bold.woff2') format('woff2'),
+        url('Readex Pro/ReadexPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Reem Kufi ----- */
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('Reem Kufi/ReemKufi-Medium.woff2') format('woff2'),
+        url('Reem Kufi/ReemKufi-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('Reem Kufi/ReemKufi-Regular.woff2') format('woff2'),
+        url('Reem Kufi/ReemKufi-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('Reem Kufi/ReemKufi-Bold.woff2') format('woff2'),
+        url('Reem Kufi/ReemKufi-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('Reem Kufi/ReemKufi-SemiBold.woff2') format('woff2'),
+        url('Reem Kufi/ReemKufi-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Rubik ----- */
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-BoldItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Black.woff2') format('woff2'),
+        url('Rubik/Rubik-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-BlackItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Bold.woff2') format('woff2'),
+        url('Rubik/Rubik-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-ExtraBoldItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Light.woff2') format('woff2'),
+        url('Rubik/Rubik-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Medium.woff2') format('woff2'),
+        url('Rubik/Rubik-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Italic.woff2') format('woff2'),
+        url('Rubik/Rubik-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-LightItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-ExtraBold.woff2') format('woff2'),
+        url('Rubik/Rubik-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-Regular.woff2') format('woff2'),
+        url('Rubik/Rubik-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-MediumItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-SemiBoldItalic.woff2') format('woff2'),
+        url('Rubik/Rubik-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-SemiBold.woff2') format('woff2'),
+        url('Rubik/Rubik-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Zain ----- */
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-Black.woff2') format('woff2'),
+        url('Zain/Zain-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-Bold.woff2') format('woff2'),
+        url('Zain/Zain-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-Light.woff2') format('woff2'),
+        url('Zain/Zain-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-ExtraBold.woff2') format('woff2'),
+        url('Zain/Zain-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-Italic.woff2') format('woff2'),
+        url('Zain/Zain-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-ExtraLight.woff2') format('woff2'),
+        url('Zain/Zain-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-Regular.woff2') format('woff2'),
+        url('Zain/Zain-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zain';
+    src: url('Zain/Zain-LightItalic.woff2') format('woff2'),
+        url('Zain/Zain-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ----- Lotus Linotype ----- */
+
+@font-face {
+    font-family: 'Lotus Linotype';
+    src: url('Lotus Linotype/Lotus-Bold.woff2') format('woff2'),
+        url('Lotus Linotype/Lotus-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lotus Linotype';
+    src: url('Lotus Linotype/Lotus-Light.woff2') format('woff2'),
+        url('Lotus Linotype/Lotus-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Harir ----- */
+
+@font-face {
+    font-family: 'harir';
+    src: url('Harir/harir-Bold.woff2') format('woff2'),
+        url('Harir/harir-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'harir';
+    src: url('Harir/harir.woff2') format('woff2'),
+        url('Harir/harir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* -----  ----- */
+
+/* -----  ----- */
+
+/* -----  ----- */
