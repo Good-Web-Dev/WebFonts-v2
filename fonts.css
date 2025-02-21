@@ -1,0 +1,122 @@
+/* ----- IBM Plex Sans Arabic ----- */
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Bold.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-ExtraLight.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Light.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-SemiBold.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Medium.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Arabic';
+    src: url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Thin.woff2') format('woff2'),
+        url('IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Amiri ----- */
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('Amiri/Amiri-Bold.woff2') format('woff2'),
+        url('Amiri/Amiri-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('Amiri/Amiri-BoldItalic.woff2') format('woff2'),
+        url('Amiri/Amiri-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('Amiri/Amiri-Italic.woff2') format('woff2'),
+        url('Amiri/Amiri-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('Amiri/Amiri-Regular.woff2') format('woff2'),
+        url('Amiri/Amiri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Helvetica World ----- */
+
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('Helvetica World/HelveticaWorld-Regular.woff2') format('woff2'),
+        url('Helvetica World/HelveticaWorld-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('Helvetica World/HelveticaWorld-Bold.woff2') format('woff2'),
+        url('Helvetica World/HelveticaWorld-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
