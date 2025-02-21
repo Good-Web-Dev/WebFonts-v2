@@ -120,3 +120,418 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* ----- KFGQPC KSA ----- */
+
+@font-face {
+    font-family: 'KFGQPC KSA';
+    src: url('KFGQPC KSA/KFGQPCKSAExtra-Extra.woff2') format('woff2'),
+        url('KFGQPC KSA/KFGQPCKSAExtra-Extra.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC KSA';
+    src: url('KFGQPC KSA/KFGQPCKSAHeavy-Heavy.woff2') format('woff2'),
+        url('KFGQPC KSA/KFGQPCKSAHeavy-Heavy.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC KSA';
+    src: url('KFGQPC KSA/KFGQPCKSARegular-Bold.woff2') format('woff2'),
+        url('KFGQPC KSA/KFGQPCKSARegular-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC KSA';
+    src: url('KFGQPC KSA/KFGQPCKSARegular-Regular.woff2') format('woff2'),
+        url('KFGQPC KSA/KFGQPCKSARegular-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- (AH) Manal ----- */
+
+@font-face {
+    font-family: '(AH) Manal';
+    src: url('AH Manal/AHManalBlack.woff2') format('woff2'),
+        url('AH Manal/AHManalBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '(AH) Manal';
+    src: url('AH Manal/AHManalMedium.woff2') format('woff2'),
+        url('AH Manal/AHManalMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '(AH) Manal';
+    src: url('AH Manal/AHManalBold.woff2') format('woff2'),
+        url('AH Manal/AHManalBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '(AH) Manal';
+    src: url('AH Manal/AHManalLight.woff2') format('woff2'),
+        url('AH Manal/AHManalLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '(AH) Manal';
+    src: url('AH Manal/AHManalHigh.woff2') format('woff2'),
+        url('AH Manal/AHManalHigh.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- KFGQPC Uthman Taha Naskh ----- */
+
+@font-face {
+    font-family: 'KFGQPC Uthman Taha Naskh';
+    src: url('KFGQPC Uthman Taha Naskh/KFGQPCUthmanTahaNaskh.woff2') format('woff2'),
+        url('KFGQPC Uthman Taha Naskh/KFGQPCUthmanTahaNaskh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC Uthman Taha Naskh';
+    src: url('KFGQPC Uthman Taha Naskh/KFGQPCUthmanTahaNaskh-Bold.woff2') format('woff2'),
+        url('KFGQPC Uthman Taha Naskh/KFGQPCUthmanTahaNaskh-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- KFGQPC AN ----- */
+
+@font-face {
+    font-family: 'KFGQPC AN';
+    src: url('KFGQPC AN/KFGQPCANLight.woff2') format('woff2'),
+        url('KFGQPC AN/KFGQPCANLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC AN';
+    src: url('KFGQPC AN/KFGQPCANRegular-Regular.woff2') format('woff2'),
+        url('KFGQPC AN/KFGQPCANRegular-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC AN';
+    src: url('KFGQPC AN/KFGQPCANExtra-Bold.woff2') format('woff2'),
+        url('KFGQPC AN/KFGQPCANExtra-Bold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC AN';
+    src: url('KFGQPC AN/KFGQPCANRegular-Bold.woff2') format('woff2'),
+        url('KFGQPC AN/KFGQPCANRegular-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- KFGQPC HAFS Uthmanic Script ----- */
+
+@font-face {
+    font-family: 'KFGQPC HAFS Uthmanic Script';
+    src: url('KFGQPC HAFS Uthmanic Script/KFGQPCHAFSUthmanicScript-Bold.woff2') format('woff2'),
+        url('KFGQPC HAFS Uthmanic Script/KFGQPCHAFSUthmanicScript-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC HAFS Uthmanic Script';
+    src: url('KFGQPC HAFS Uthmanic Script/KFGQPCHAFSUthmanicScript-Regula.woff2') format('woff2'),
+        url('KFGQPC HAFS Uthmanic Script/KFGQPCHAFSUthmanicScript-Regula.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Kitab ----- */
+
+@font-face {
+    font-family: 'Kitab';
+    src: url('Kitab/Kitab-Regular.woff2') format('woff2'),
+        url('Kitab/Kitab-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kitab';
+    src: url('Kitab/Kitab-Bold.woff2') format('woff2'),
+        url('Kitab/Kitab-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- KFGQPC Arabic Symbols 01 ----- */
+
+@font-face {
+    font-family: 'KFGQPC Arabic Symbols 01';
+    src: url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff') format('woff');
+    font-weight: normal, bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC Arabic Symbols 01';
+    src: url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Arabic UI Display ----- */
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Black.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Heavy.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Heavy.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Bold.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Light.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Thin.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Ultralight.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Ultralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Semibold.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arabic UI Display';
+    src: url('Arabic UI Display/ArabicUIDisplay-Medium.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ArabicUIDisplay';
+    src: url('Arabic UI Display/ArabicUIDisplay.woff2') format('woff2'),
+        url('Arabic UI Display/ArabicUIDisplay.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Arial ----- */
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial/Arial-BoldMT.woff2') format('woff2'),
+        url('Arial/Arial-BoldMT.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial/ArialMT.woff2') format('woff2'),
+        url('Arial/ArialMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- DG Faseh ----- */
+
+@font-face {
+    font-family: 'DG Faseh';
+    src: url('DG Faseh/DGFaseh.woff2') format('woff2'),
+        url('DG Faseh/DGFaseh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DG Faseh';
+    src: url('DG Faseh/DGFaseh-Bold.woff2') format('woff2'),
+        url('DG Faseh/DGFaseh-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Kawkab Mono ----- */
+
+@font-face {
+    font-family: 'Kawkab Mono';
+    src: url('Kawkab Mono/KawkabMono-Light.woff2') format('woff2'),
+        url('Kawkab Mono/KawkabMono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kawkab Mono';
+    src: url('Kawkab Mono/KawkabMono-Bold.woff2') format('woff2'),
+        url('Kawkab Mono/KawkabMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kawkab Mono';
+    src: url('Kawkab Mono/KawkabMono-Regular.woff2') format('woff2'),
+        url('Kawkab Mono/KawkabMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Adobe Arabic ----- */
+
+@font-face {
+    font-family: 'Adobe Arabic';
+    src: url('Adobe Arabic/AdobeArabic-Regular.woff2') format('woff2'),
+        url('Adobe Arabic/AdobeArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Arabic';
+    src: url('Adobe Arabic/AdobeArabic-Bold.woff2') format('woff2'),
+        url('Adobe Arabic/AdobeArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Science Icons ----- */
+
+@font-face {
+    font-family: 'Science Icons';
+    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
+        url('Science Icons/ScienceIcons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Icons';
+    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
+        url('Science Icons/ScienceIcons.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- DG Jory ----- */
+
+@font-face {
+    font-family: 'DG Jory';
+    src: url('DG Jory/DGJory-Light.woff2') format('woff2'),
+        url('DG Jory/DGJory-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DG Jory';
+    src: url('DG Jory/DGJory.woff2') format('woff2'),
+        url('DG Jory/DGJory.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
