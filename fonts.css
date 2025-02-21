@@ -308,18 +308,18 @@
 
 @font-face {
     font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
-    font-weight: normal, bold;
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
-    font-weight: bold;
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
@@ -632,48 +632,48 @@
     font-display: swap;
 }
 
-/* ----- Baloo Bhaijaan 2 ----- */
+/* ----- Baloo Bhaijaan ----- */
 
 @font-face {
-    font-family: 'Baloo Bhaijaan 2';
-    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Bold.woff2') format('woff2'),
-        url('Baloo Bhaijaan 2/BalooBhaijaan2-Bold.woff') format('woff');
+    font-family: 'Baloo Bhaijaan';
+    src: url('Baloo Bhaijaan/BalooBhaijaan2-Bold.woff2') format('woff2'),
+        url('Baloo Bhaijaan/BalooBhaijaan2-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Baloo Bhaijaan 2';
-    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-ExtraBold.woff2') format('woff2'),
-        url('Baloo Bhaijaan 2/BalooBhaijaan2-ExtraBold.woff') format('woff');
+    font-family: 'Baloo Bhaijaan';
+    src: url('Baloo Bhaijaan/BalooBhaijaan2-ExtraBold.woff2') format('woff2'),
+        url('Baloo Bhaijaan/BalooBhaijaan2-ExtraBold.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Baloo Bhaijaan 2';
-    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Medium.woff2') format('woff2'),
-        url('Baloo Bhaijaan 2/BalooBhaijaan2-Medium.woff') format('woff');
+    font-family: 'Baloo Bhaijaan';
+    src: url('Baloo Bhaijaan/BalooBhaijaan2-Medium.woff2') format('woff2'),
+        url('Baloo Bhaijaan/BalooBhaijaan2-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Baloo Bhaijaan 2';
-    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-SemiBold.woff2') format('woff2'),
-        url('Baloo Bhaijaan 2/BalooBhaijaan2-SemiBold.woff') format('woff');
+    font-family: 'Baloo Bhaijaan';
+    src: url('Baloo Bhaijaan/BalooBhaijaan2-SemiBold.woff2') format('woff2'),
+        url('Baloo Bhaijaan/BalooBhaijaan2-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Baloo Bhaijaan 2';
-    src: url('Baloo Bhaijaan 2/BalooBhaijaan2-Regular.woff2') format('woff2'),
-        url('Baloo Bhaijaan 2/BalooBhaijaan2-Regular.woff') format('woff');
+    font-family: 'Baloo Bhaijaan';
+    src: url('Baloo Bhaijaan/BalooBhaijaan2-Regular.woff2') format('woff2'),
+        url('Baloo Bhaijaan/BalooBhaijaan2-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
