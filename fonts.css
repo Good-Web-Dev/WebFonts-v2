@@ -162,7 +162,7 @@
 /* ----- (AH) Manal ----- */
 
 @font-face {
-    font-family: '(AH) Manal';
+    font-family: 'AH Manal';
     src: url('AH Manal/AHManalBlack.woff2') format('woff2'),
         url('AH Manal/AHManalBlack.woff') format('woff');
     font-weight: 900;
@@ -171,7 +171,7 @@
 }
 
 @font-face {
-    font-family: '(AH) Manal';
+    font-family: 'AH Manal';
     src: url('AH Manal/AHManalMedium.woff2') format('woff2'),
         url('AH Manal/AHManalMedium.woff') format('woff');
     font-weight: normal;
@@ -180,7 +180,7 @@
 }
 
 @font-face {
-    font-family: '(AH) Manal';
+    font-family: 'AH Manal';
     src: url('AH Manal/AHManalBold.woff2') format('woff2'),
         url('AH Manal/AHManalBold.woff') format('woff');
     font-weight: bold;
@@ -189,7 +189,7 @@
 }
 
 @font-face {
-    font-family: '(AH) Manal';
+    font-family: 'AH Manal';
     src: url('AH Manal/AHManalLight.woff2') format('woff2'),
         url('AH Manal/AHManalLight.woff') format('woff');
     font-weight: 300;
@@ -198,7 +198,7 @@
 }
 
 @font-face {
-    font-family: '(AH) Manal';
+    font-family: 'AH Manal';
     src: url('AH Manal/AHManalHigh.woff2') format('woff2'),
         url('AH Manal/AHManalHigh.woff') format('woff');
     font-weight: 800;
@@ -304,21 +304,21 @@
     font-display: swap;
 }
 
-/* ----- KFGQPC Arabic Symbols 01 ----- */
+/* ----- KFGQPC Arabic Symbols ----- */
 
 @font-face {
-    font-family: 'KFGQPC Arabic Symbols 01';
-    src: url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff') format('woff');
+    font-family: 'KFGQPC Arabic Symbols';
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
     font-weight: normal, bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'KFGQPC Arabic Symbols 01';
-    src: url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols 01/KFGQPCArabicSymbols01.woff') format('woff');
+    font-family: 'KFGQPC Arabic Symbols';
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -399,7 +399,7 @@
 }
 
 @font-face {
-    font-family: 'ArabicUIDisplay';
+    font-family: 'Arabic UI Display';
     src: url('Arabic UI Display/ArabicUIDisplay.woff2') format('woff2'),
         url('Arabic UI Display/ArabicUIDisplay.woff') format('woff');
     font-weight: normal;
