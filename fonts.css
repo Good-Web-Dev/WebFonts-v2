@@ -304,26 +304,6 @@
     font-display: swap;
 }
 
-/* ----- KFGQPC Arabic Symbols ----- */
-
-@font-face {
-    font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
 /* ----- Arabic UI Display ----- */
 
 @font-face {
@@ -491,26 +471,6 @@
     font-family: 'Adobe Arabic';
     src: url('Adobe Arabic/AdobeArabic-Bold.woff2') format('woff2'),
         url('Adobe Arabic/AdobeArabic-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* ----- Science Icons ----- */
-
-@font-face {
-    font-family: 'Science Icons';
-    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
-        url('Science Icons/ScienceIcons.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Science Icons';
-    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
-        url('Science Icons/ScienceIcons.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -1438,8 +1398,313 @@
     font-display: swap;
 }
 
-/* -----  ----- */
+/* ----- Handjet ----- */
 
-/* -----  ----- */
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Black.woff2') format('woff2'),
+        url('Handjet/Handjet-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
 
-/* -----  ----- */
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-ExtraBold.woff2') format('woff2'),
+        url('Handjet/Handjet-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Bold.woff2') format('woff2'),
+        url('Handjet/Handjet-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Medium.woff2') format('woff2'),
+        url('Handjet/Handjet-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Regular.woff2') format('woff2'),
+        url('Handjet/Handjet-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-ExtraLight.woff2') format('woff2'),
+        url('Handjet/Handjet-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Thin.woff2') format('woff2'),
+        url('Handjet/Handjet-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-Light.woff2') format('woff2'),
+        url('Handjet/Handjet-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet/Handjet-SemiBold.woff2') format('woff2'),
+        url('Handjet/Handjet-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Lyon Arabic Display ----- */
+
+@font-face {
+    font-family: 'Lyon Arabic Display';
+    src: url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Bold.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Display';
+    src: url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Light.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Display';
+    src: url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Black.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Display';
+    src: url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Regular.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Display';
+    src: url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Medium.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Display/LyonArabicDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Lyon Arabic Slanted Display ----- */
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Display';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Lt.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Lt.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Display';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Reg.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Display';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Bold.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Display';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Med.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Med.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Display';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Blk.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Display/LyonArabicSlantedDisplay-Blk.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* ----- Lyon Arabic Slanted Text ----- */
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Text';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-RegNo2.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-RegNo2.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Text';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Bold.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Text';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Regular.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Text';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Black.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Slanted Text';
+    src: url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-SemBd.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Slanted Text/LyonArabicSlantedText-SemBd.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Lyon Arabic Text ----- */
+
+@font-face {
+    font-family: 'Lyon Arabic Text';
+    src: url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Black.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Text';
+    src: url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Regular.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Text';
+    src: url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-SemiBold.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Text';
+    src: url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Bold.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lyon Arabic Text';
+    src: url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-RegularNo2.woff2') format('woff2'),
+        url('Lyon Arabic/Lyon Arabic Text/LyonArabicText-RegularNo2.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- KFGQPC Arabic Symbols ----- */
+
+@font-face {
+    font-family: 'KFGQPC Arabic Symbols';
+    src: url('https://good-web-dev.github.io/WebFonts-v2/KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KFGQPC Arabic Symbols';
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Science Icons ----- */
+
+@font-face {
+    font-family: 'Science Icons';
+    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
+        url('Science Icons/ScienceIcons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Science Icons';
+    src: url('Science Icons/ScienceIcons.woff2') format('woff2'),
+        url('Science Icons/ScienceIcons.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
