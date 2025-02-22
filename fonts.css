@@ -1669,11 +1669,71 @@
     font-display: swap;
 }
 
+/* ----- XB Yagut ----- */
+
+@font-face {
+    font-family: 'XB Yagut';
+    src: url('XB Yagut/XBYagut.woff2') format('woff2'),
+        url('XB Yagut/XBYagut.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XB Yagut';
+    src: url('XB Yagut/XBYagut-Bold.woff2') format('woff2'),
+        url('XB Yagut/XBYagut-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- XB Shafigh ----- */
+
+@font-face {
+    font-family: 'XB Shafigh Kurd';
+    src: url('XB Shafigh/XBShafighKurd-Bold.woff2') format('woff2'),
+        url('XB Shafigh/XBShafighKurd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XB Shafigh';
+    src: url('XB Shafigh/XBShafigh.woff2') format('woff2'),
+        url('XB Shafigh/XBShafigh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- Digistyle Unicode ----- */
+
+@font-face {
+    font-family: 'Digistyle Unicode';
+    src: url('Digistyle Unicode/DigistyleUnicode.woff2') format('woff2'),
+        url('Digistyle Unicode/DigistyleUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Digistyle Unicode';
+    src: url('Digistyle Unicode/DigistyleUnicode.woff2') format('woff2'),
+        url('Digistyle Unicode/DigistyleUnicode.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* ----- KFGQPC Arabic Symbols ----- */
 
 @font-face {
     font-family: 'KFGQPC Arabic Symbols';
-    src: url('https://good-web-dev.github.io/WebFonts-v2/KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
         url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
     font-weight: normal;
     font-style: normal;
