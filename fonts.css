@@ -308,8 +308,8 @@
 
 @font-face {
     font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff') format('woff');
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -317,8 +317,8 @@
 
 @font-face {
     font-family: 'KFGQPC Arabic Symbols';
-    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff2') format('woff2'),
-        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols01.woff') format('woff');
+    src: url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff2') format('woff2'),
+        url('KFGQPC Arabic Symbols/KFGQPCArabicSymbols.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
