@@ -1692,7 +1692,7 @@
 /* ----- XB Shafigh ----- */
 
 @font-face {
-    font-family: 'XB Shafigh Kurd';
+    font-family: 'XB Shafigh';
     src: url('XB Shafigh/XBShafighKurd-Bold.woff2') format('woff2'),
         url('XB Shafigh/XBShafighKurd-Bold.woff') format('woff');
     font-weight: bold;
@@ -1724,6 +1724,26 @@
     font-family: 'Digistyle Unicode';
     src: url('Digistyle Unicode/DigistyleUnicode.woff2') format('woff2'),
         url('Digistyle Unicode/DigistyleUnicode.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ----- SF-Mada ----- */
+
+@font-face {
+    font-family: 'SF-Mada';
+    src: url('SF-Mada/SF-Mada-Normal.woff2') format('woff2'),
+        url('SF-Mada/SF-Mada-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF-Mada';
+    src: url('SF-Mada/SF-Mada-Bold.woff2') format('woff2'),
+        url('SF-Mada/SF-Mada-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
