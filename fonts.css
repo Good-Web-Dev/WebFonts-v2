@@ -1749,6 +1749,17 @@
     font-display: swap;
 }
 
+/* ----- Fixedsys Excelsior ----- */
+
+@font-face {
+    font-family: 'Fixedsys Excelsior';
+    src: url('Fixedsys Excelsior/FixedsysExcelsior.woff2') format('woff2'),
+        url('Fixedsys Excelsior/FixedsysExcelsior.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* ----- KFGQPC Arabic Symbols ----- */
 
 @font-face {
